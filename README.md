@@ -22,7 +22,7 @@ This project applies multiple machine learning algorithms to predict passenger s
 ├── model_accuracy_summary.csv     → Table comparing all model accuracies
 ├── model_accuracy_comparison.png → Bar chart comparing model performance
 
-📄 your_code.ipynb                 → Main notebook that runs all models
+📄 main.ipynb                 → Main notebook that runs all models
 📄 report.pdf                      → Written report answering all project questions
 ```
 
@@ -30,7 +30,7 @@ This project applies multiple machine learning algorithms to predict passenger s
 
 ## 🧪 How to Run
 
-1. Open `your_code.ipynb` in **Jupyter Notebook** or **VS Code**.
+1. Open `main.ipynb` in **Jupyter Notebook** or **VS Code**.
 2. Run all cells in sequence.
 3. Check the `Data/Results/` folder for model predictions.
 4. Visit each model’s folder for detailed outputs, confusion matrices, and heatmaps.
